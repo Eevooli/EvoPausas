@@ -8,9 +8,11 @@ COMANDOS DEL PLUGIN:
 
 ``PARA ADMINISTRADORES``
 
-!forcepause y !forceunpause | Esto permite forzar las pausas y quitarlas.
+!forcepause y !forceunpause | Esto permite a los administradores forzar las pausas o quitarlas.
 
 ``PARA JUGADORES``
 
-!tac y !unpause | !tac sirve para pausar la partida y !unpause para quitarla. Ambos equipos deben ponerlo para seguir la partida.
+!p -> Se ejecuta un timeout para el equipo solicitante.
+
+!t -> Se ejecuta una pausa tecnica. Ambos equipos deben escribir !unpause para que la p artida prosiga.
 

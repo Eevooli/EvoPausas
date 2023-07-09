@@ -1,4 +1,4 @@
-# Plugin de Pausa basico.
+# Comandos de EvoPausas.
 
 Plugin basico con comandos para pausar y renaudar un partido.
 
